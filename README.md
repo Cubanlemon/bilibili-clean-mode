@@ -1,2 +1,2 @@
-# edge-
-edge拓展
+# bilibili-clean-mode
+bilibili-clean-mode
